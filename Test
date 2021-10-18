@@ -1,0 +1,16 @@
+
+<html>
+  <head>
+    <title>Link testen</title>
+    <link rel="stylesheet" type="text/css" href="css/screen.css" />
+  </head>
+  <body>
+	  <a href="index.html">Hello</a>
+    <h1>Übung: Links</h1>
+    <h2>Einfacher Absatz</h2>
+    <p>Hier steht ein Beispieltext</p
+
+    <p>Hier steht ein zweiter Text</p>
+    
+  </body>
+</html>
